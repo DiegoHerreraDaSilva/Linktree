@@ -1,4 +1,4 @@
-Aplicação que permite criar árvore de links personalizadas, em ReactJS, TypeScript, integrado com FireBase.
+Aplicação que permite criar árvore de links personalizadas, em ReactJS, TypeScript, integrado com FireBase e Tailwind.
 
 <img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/07bae66f-c138-4733-b103-18aa51b0e5f6" />
 
